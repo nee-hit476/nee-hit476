@@ -75,8 +75,9 @@
 ## 📈 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nee-hit476&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nee-hit476&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
 </div>
+
 
 ## 📫 Let's Connect!
 
