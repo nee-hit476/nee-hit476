@@ -71,6 +71,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nee-hit476&theme=react-dark&hide_border=true" alt="Nihit's Contribution Graph" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nee-hit476&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ## 📫 Let's Connect!
 
