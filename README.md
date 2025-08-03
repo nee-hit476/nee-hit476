@@ -12,9 +12,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nee-hit476&show_icons=true&theme=radical" alt="Nihit's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nee-hit476&theme=radical" alt="Streak" />
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nee-hit476&theme=radical)](https://git.io/streak-stats)
 
 
 ## 🛠️ Tech Stack
