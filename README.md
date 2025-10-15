@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there! I'm Nishidh
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;JavaScript+Enthusiast+%E2%9C%A8;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;JavaScript+Enthusiast+%E2%9C%A8;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning+New+Things+%F0%9F%93%9A;AI+and+ML+Engineer" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
